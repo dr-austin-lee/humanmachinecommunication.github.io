@@ -255,6 +255,11 @@ testimonials p {
 .section-title.center {
 	padding: 30px 0;
 }
+#team-section p {
+	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
 #team-section h3 {
 	border-top: 1px solid #b8dea2;
 	padding-top: 20px;
@@ -272,6 +277,38 @@ img.team-img {
 	border: 0;
 }
 #team-section .thumbnail .caption {
+	padding: 0;
+}
+/* Sponsor Section */
+#sponsor-section p {
+	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+#sponsor-section {
+	padding: 100px 0;
+	background-color: #f6f6f6;
+}
+.section-title.center {
+	padding: 30px 0;
+}
+#sponsor-section h3 {
+	border-top: 1px solid #b8dea2;
+	padding-top: 20px;
+	display: inline-block;
+}
+img.sponsor-img {
+	width: 160px;
+	height: 160px;
+	border: 0;
+	transition: all 0.5s;
+	margin: 0;
+}
+#sponsor-section .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#sponsor-section .thumbnail .caption {
 	padding: 0;
 }
 /* About Section */
