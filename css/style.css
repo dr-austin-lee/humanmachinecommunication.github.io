@@ -280,16 +280,16 @@ img.team-img {
 	padding: 0;
 }
 /* Sponsor Section */
-#sponsor-section p {
-	line-height: 20px;
-	margin-top: 0px;
-	margin-bottom: 30px;
-}
 #sponsor-section {
 	padding: 100px 0;
 }
 .section-title.center {
 	padding: 30px 0;
+}
+#sponsor-section p {
+	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
 }
 #sponsor-section h3 {
 	border-top: 1px solid #b8dea2;
