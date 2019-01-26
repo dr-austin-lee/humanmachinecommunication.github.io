@@ -250,7 +250,7 @@ testimonials p {
 /* Team Section */
 #team-section {
 	padding: 100px 0;
-	background-color: #ffffff;
+	background-color: #f6f6f6;
 }
 .section-title.center {
 	padding: 30px 0;
@@ -287,7 +287,6 @@ img.team-img {
 }
 #sponsor-section {
 	padding: 100px 0;
-	background-color: #f6f6f6;
 }
 .section-title.center {
 	padding: 30px 0;
@@ -334,6 +333,13 @@ img.sponsor-img {
 #proposals-section {
 	padding: 100px 0;
 }
+
+/* Support Section */
+#support-section {
+	padding: 100px 0;
+	background-color: #f6f6f6;
+}
+
 /* Gallery Section 
 ==============================*/
 #works-section {
