@@ -255,22 +255,22 @@ testimonials p {
 	padding-bottom: 10px;
 	display: block;
 }
-/* Journal Section */
-#journal-section {
-	padding: 100px 0;
-	background-color: #f6f6f6;
-}
-/* Membership Section */
-#membership-section {
+/* Resources Section */
+#resources-section {
 	padding: 100px 0;
 	background-color: #ffffff;
 }
-#membership-section i.fa {
+#resources-section i.fa {
 	font-size: 36px;
 	margin-right: 20px;
 	color: #71bd46;
 	padding-bottom: 10px;
 	display: block;
+}
+/* Membership Section */
+#membership-section {
+	padding: 100px 0;
+	background-color: #f6f6f6;
 }
 /* Team Section */
 #team-section {
