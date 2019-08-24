@@ -1,4 +1,4 @@
-## Welcome to the Human-Machine Commuinication ICA Interest Group GitHub Page
+## Human-Machine Commuinication ICA Interest Group GitHub Page
 
 Chair: Andrea L. Guzman, Assistant Professor of Communication, Northern Illinois University
 
