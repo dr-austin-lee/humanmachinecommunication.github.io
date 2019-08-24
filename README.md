@@ -1,3 +1,4 @@
 ## Welcome to the Human-Machine Commuinication ICA Interest Group GitHub Page
 
-If you need any suggestions, contact the web administrator, Austin Lee, Ph.D. at humanmachinecommunication@gmail.com
+Chair: [Andrea L. Guzman](alguzman@niu.edu), Assistant Professor of Communication, Northern Illinois University
+Web administrator: Austin Lee, Ph.D. humanmachinecommunication@gmail.com
